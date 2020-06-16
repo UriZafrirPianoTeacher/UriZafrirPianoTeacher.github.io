@@ -311,6 +311,10 @@ a {
 a img {
   border: none;
 }
+.iframe-video{
+  width: 100%;
+  height: 400px;
+}
 
 /* ------------------------------------------------------------------- 
  * inputs - (_basic.scss)
@@ -464,7 +468,7 @@ textarea {
   .tab-1-2 {
     width: 50%;
   }
-
+    
   .tab-2-3 {
     width: 66.66667%;
   }
