@@ -1402,7 +1402,7 @@ header .header-logo a {
   border-top: 1px dotted rgba(255, 255, 255, 0.03);
 }
 #menu-nav-wrap .nav-list li a {
-  color: rgba(255, 255, 255, 0.25);
+  color: rgba(255, 255, 255, 0.40);
   display: block;
 }
 #menu-nav-wrap .nav-list li a:hover, 
@@ -1413,7 +1413,7 @@ header .header-logo a {
   list-style: none;
   display: inline-block;
   margin: 0;
-  font-size: 2.1rem;
+  font-size: 5rem;
 }
 #menu-nav-wrap .header-social-list li {
   margin-right: 12px;
@@ -1421,7 +1421,7 @@ header .header-logo a {
   display: inline-block;
 }
 #menu-nav-wrap .header-social-list li a {
-  color: rgba(255, 255, 255, 0.15);
+  color: rgba(255, 255, 255, 0.30);
 }
 #menu-nav-wrap .header-social-list li a:hover, 
 #menu-nav-wrap .header-social-list li a:focus {
