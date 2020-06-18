@@ -72,6 +72,7 @@ body {
   padding: 0;
 }
 
+
 /* ------------------------------------------------------------------- 
  * links - (_document-setup) 
  * ------------------------------------------------------------------- */
@@ -87,6 +88,12 @@ a, a:visited {
 a:hover, a:focus {
   color: #000000;
 }
+.link { 
+    color: #FFFFFF;
+} 
+.link:hover { 
+    color: #ADC0FF;
+} 
 
 
 /* ===================================================================
@@ -1255,7 +1262,7 @@ header .header-logo {
   transition: all 1s ease-in-out;
 }
 header .header-logo a {
-  display: block;
+  display: none;
   margin: 0;
   padding: 0;
   outline: 0;
@@ -1583,7 +1590,6 @@ header .header-logo a {
 }
 .home-social-list::before {
   display: block;
-  content: "";
   width: 2px;
   height: 42px;
   background-color: rgba(255, 255, 255, 0.3);
@@ -2556,6 +2562,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
 .contact-info .cinfo {
   margin-bottom: 4.2rem;
 }
+
 
 /* contact form */
 #contact form {
