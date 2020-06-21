@@ -65,7 +65,7 @@ html, body {
 body {
   background: #111111;
   font-family: "librebaskerville-regular", serif;
-  font-size: 2rem;
+  font-size: 1.6rem;
   line-height: 3rem;
   color: #353535;
   margin: 0;
@@ -2021,7 +2021,8 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
 }
 #portfolio .intro-wrap {
   padding: 15rem 0 21rem;
-  background: #111111;
+
+  background: #211E1E;
 }
 #portfolio .section-intro h3 {
   color: rgba(242, 242, 242, 0.5);
